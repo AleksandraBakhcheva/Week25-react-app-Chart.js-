@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Week25-react-app-Chart.js-/static/css/main.66524c1a.css",
+    "main.js": "/Week25-react-app-Chart.js-/static/js/main.b1ca0495.js",
+    "index.html": "/Week25-react-app-Chart.js-/index.html",
+    "main.66524c1a.css.map": "/Week25-react-app-Chart.js-/static/css/main.66524c1a.css.map",
+    "main.b1ca0495.js.map": "/Week25-react-app-Chart.js-/static/js/main.b1ca0495.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66524c1a.css",
+    "static/js/main.b1ca0495.js"
+  ]
+}
