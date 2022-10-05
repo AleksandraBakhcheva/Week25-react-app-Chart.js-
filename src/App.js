@@ -6,12 +6,17 @@ import { Pie } from 'react-chartjs-2';
 ChartJS.register(ArcElement, Tooltip, Legend, Title);
 
 /* const options = {
-  title: {
-    display: true, 
-    text: 'My expenses pie chart',
-    position: 'top',
-    align: 'center'
-}}; */
+  responsive: true,
+  plugins: {
+    legend: {
+      position: "top",
+    },
+    title: {
+      display: true,
+      text: "My expenses pie chart",
+    },
+  },
+}; */
 
 const data = {
   labels: ['Apartment', 'Food', 'Car/Transport', 'Presents', 'Health/Cosmetics', 'Other'],
